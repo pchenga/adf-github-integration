@@ -1,0 +1,9 @@
+{
+	"name": "pc-test-adf0908",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44e4013f-afe8-4be7-a93f-39318a29c75b",
+		"tenantId": "46cc4e71-0101-4ec7-ac44-7a058574f0d5"
+	}
+}
